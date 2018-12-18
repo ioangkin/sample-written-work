@@ -1,2 +1,3 @@
-# sample-written-work
-Samples of written work from Studies (BSc comp Science, University of Brighton)
+# Examples of written work
+
+As part of my Studies in BSc comp Science, University of Brighton
